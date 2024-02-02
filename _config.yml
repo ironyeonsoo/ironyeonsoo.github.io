@@ -28,9 +28,6 @@ url: "https://ironyeonsoo.github.io"
 github:
   username: ironyeonsoo # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -50,7 +47,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: 
 
 # Prefer color scheme setting.
 #
